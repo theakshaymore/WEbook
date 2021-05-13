@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { Flex, Spacer, Box, Button, Heading, Image } from "@chakra-ui/react";
+import { Flex, Spacer, Box, Button, Heading } from "@chakra-ui/react";
 import { SmallAddIcon } from "@chakra-ui/icons";
 
 const Navbar = () => {
