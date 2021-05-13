@@ -1,0 +1,49 @@
+{
+  "blogs": [
+    {
+      "title": "Let’s talk about my ‘lack of a life.’",
+      "body": "You may think it’s quite uninteresting, but read through. I might just surprise you. I apologise, I’m a tad bit rusty (no pun intended) in my writing skills. Owing to the fact that I’ve hardly written anything other than SEO optimised blog posts in the past couple years. But again, as I now look down upon my keyboard, it’s starting to come back to me. ‘Lack of a life’ I’m calling this, because that’s how I see myself currently. It’s actually quite a cliché scenario. You reach a stage in life where everything seems boring. Everything moves way too slow, and there’s hardly any personal (or professional) growth in your life, for that matter. … Countless others have gone through this, and countless others will go through this. And when you do, I want you to come back to this incidence I’ll be telling you. ",
+      "author": "Akshay More",
+      "tag": "new",
+      "rev_count": 75,
+      "img": "https://images.unsplash.com/photo-1484627147104-f5197bcd6651?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGlmZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "id": 1
+    },
+    {
+      "title": "Travelling during pandamic",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur!",
+      "author": "Hardik Yewale",
+      "tag": "travel",
+      "rev_count": 34,
+      "img": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dHJhdmVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "id": 2
+    },
+    {
+      "title": "Travelling during pandamic",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur!",
+      "author": "Hardik Yewale",
+      "tag": "coding",
+      "rev_count": 50,
+      "img": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dHJhdmVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "id": 2
+    },
+    {
+      "title": "Travelling during pandamic",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore aspernatur sit et possimus voluptatem veniam! Commodi repudiandae modi soluta aliquid dolores! Corrupti quasi nesciunt tempore enim ut repellendus dolor consequatur!",
+      "author": "Hardik Yewale",
+      "tag": "lifestyle",
+      "rev_count": 435,
+      "img": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dHJhdmVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "id": 2
+    },
+    {
+      "title": "my new blog",
+      "body": "jansjams aksm sk kj kaj\ndfdfdfdf\nfdfdfdfdfdf\nfdfdfd\nfdfdfdfdfdfdfdfdfd",
+      "img": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dHJhdmVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "author": "im_PD",
+      "tag": "new",
+      "rev_count": 56,
+      "id": 3
+    }
+  ]
+}
