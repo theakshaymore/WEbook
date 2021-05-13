@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/WEbook/static/css/main.293384b9.chunk.css",
+    "main.js": "/WEbook/static/js/main.3223f67e.chunk.js",
+    "main.js.map": "/WEbook/static/js/main.3223f67e.chunk.js.map",
+    "runtime-main.js": "/WEbook/static/js/runtime-main.066ea697.js",
+    "runtime-main.js.map": "/WEbook/static/js/runtime-main.066ea697.js.map",
+    "static/js/2.10a52013.chunk.js": "/WEbook/static/js/2.10a52013.chunk.js",
+    "static/js/2.10a52013.chunk.js.map": "/WEbook/static/js/2.10a52013.chunk.js.map",
+    "index.html": "/WEbook/index.html",
+    "static/css/main.293384b9.chunk.css.map": "/WEbook/static/css/main.293384b9.chunk.css.map",
+    "static/js/2.10a52013.chunk.js.LICENSE.txt": "/WEbook/static/js/2.10a52013.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.066ea697.js",
+    "static/js/2.10a52013.chunk.js",
+    "static/css/main.293384b9.chunk.css",
+    "static/js/main.3223f67e.chunk.js"
+  ]
+}
