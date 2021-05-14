@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WEbook/static/css/main.293384b9.chunk.css",
-    "main.js": "/WEbook/static/js/main.d9c887e6.chunk.js",
-    "main.js.map": "/WEbook/static/js/main.d9c887e6.chunk.js.map",
+    "main.js": "/WEbook/static/js/main.11cb5f60.chunk.js",
+    "main.js.map": "/WEbook/static/js/main.11cb5f60.chunk.js.map",
     "runtime-main.js": "/WEbook/static/js/runtime-main.066ea697.js",
     "runtime-main.js.map": "/WEbook/static/js/runtime-main.066ea697.js.map",
     "static/js/2.6905c87e.chunk.js": "/WEbook/static/js/2.6905c87e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.066ea697.js",
     "static/js/2.6905c87e.chunk.js",
     "static/css/main.293384b9.chunk.css",
-    "static/js/main.d9c887e6.chunk.js"
+    "static/js/main.11cb5f60.chunk.js"
   ]
 }
