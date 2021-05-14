@@ -23,11 +23,14 @@ const Create = () => {
 
     setIsPending(true);
 
-    fetch("http://localhost:8000/blogs", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(blog),
-    }).then(() => {
+    fetch(
+      "https://my-json-server.typicode.com/theakshaymore/json-server/blogs",
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(blog),
+      }
+    ).then(() => {
       console.log("new data added");
       setIsPending(false);
       history.push("/");

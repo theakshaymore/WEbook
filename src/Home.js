@@ -8,7 +8,9 @@ const Home = () => {
     data: blogs,
     isPending,
     error,
-  } = useFetch("http://localhost:8000/blogs");
+  } = useFetch(
+    "https://my-json-server.typicode.com/theakshaymore/json-server/blogs"
+  );
 
   return (
     <div className="home">
