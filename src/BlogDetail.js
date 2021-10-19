@@ -11,12 +11,12 @@ const BlogDetail = () => {
     isPending,
     error,
   } = useFetch(
-    "https://my-json-server.typicode.com/theakshaymore/json-server/blogs/" + id
+    "https://my-json-server.typicode.com/theakshaymore/json-server/blob/main/db.json/blogs/" + id
   );
 
   const handleDelete = () => {
     fetch(
-      "https://my-json-server.typicode.com/theakshaymore/json-server/blogs/" +
+      "https://my-json-server.typicode.com/theakshaymore/json-server/blob/main/db.json/blogs/" +
         blogs.id,
       {
         method: "DELETE",
